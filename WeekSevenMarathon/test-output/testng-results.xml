@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-04T23:18:38 IST" name="Default suite" finished-at="2023-11-04T23:18:54 IST" duration-ms="16032">
+    <groups>
+    </groups>
+    <test started-at="2023-11-04T23:18:38 IST" name="Default test" finished-at="2023-11-04T23:18:54 IST" duration-ms="16032">
+      <class name="testCase.BookTicketChennai">
+        <test-method is-config="true" signature="preCdn()[pri:0, instance:testCase.BookTicketChennai@f0da945]" started-at="2023-11-04T23:18:38 IST" name="preCdn" finished-at="2023-11-04T23:18:44 IST" duration-ms="6334" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCdn -->
+        <test-method signature="bookTicket()[pri:0, instance:testCase.BookTicketChennai@f0da945]" started-at="2023-11-04T23:18:44 IST" name="bookTicket" finished-at="2023-11-04T23:18:54 IST" duration-ms="9640" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookTicket -->
+      </class> <!-- testCase.BookTicketChennai -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
